@@ -7,4 +7,12 @@ rgs = {
       env  = "dev"
     }
   }
+    rg3 = {
+    rg_name  = "rg-gulami"
+    location = "canada central"
+    tags = {
+      team = "devops"
+      env  = "dev"
+    }
+  }
 }
