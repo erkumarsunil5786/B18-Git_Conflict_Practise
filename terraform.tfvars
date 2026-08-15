@@ -7,4 +7,12 @@ rgs = {
       env  = "dev"
     }
   }
+   rg2 = {
+    rg_name  = "rg-azadi"
+    location = "canada central"
+    tags = {
+      team = "devops"
+      env  = "dev"
+    }
+  }
 }
