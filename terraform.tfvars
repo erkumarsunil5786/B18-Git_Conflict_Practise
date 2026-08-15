@@ -24,7 +24,11 @@ rgs = {
     }
   }
     rg4 = {
-    rg_name  = "rg-gulami1"
+    rg_name  = "rg-gulami1" 
+    location = "canada central"
+  }
+    rg5 = {
+    rg_name  = "rg-azadi1" 
     location = "canada central"
   }
 }
