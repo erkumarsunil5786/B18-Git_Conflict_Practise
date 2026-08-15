@@ -23,4 +23,8 @@ rgs = {
       env  = "dev"
     }
   }
+    rg4 = {
+    rg_name  = "rg-gulami1"
+    location = "canada central"
+  }
 }
