@@ -7,8 +7,16 @@ rgs = {
       env  = "dev"
     }
   }
-   rg2 = {
+    rg2 = {
     rg_name  = "rg-azadi"
+    location = "canada central"
+    tags = {
+      team = "devops"
+      env  = "dev"
+         }
+      }
+   rg3 = {
+    rg_name  = "rg-gulami"
     location = "canada central"
     tags = {
       team = "devops"
